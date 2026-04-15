@@ -1,0 +1,9 @@
+{
+	"name": "dfproadfkyle",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c62f934-a3ff-49fe-add8-05aca2cce610",
+		"tenantId": "5586c148-c5c8-4e81-ad62-0eb148624060"
+	}
+}
